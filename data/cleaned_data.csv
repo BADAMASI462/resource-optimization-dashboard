@@ -1,0 +1,5 @@
+Department,Resource_Type,Allocated,Used,Utilization (%),Key_Metrics,Target,Achieved,Budget_Allocated,Budget_Used,Variance (%)
+R&D,Equipment,100,80,80.0,Innovations,50,45,10000000,9000000,10.0
+Operations,Equipment,200,180,90.0,Efficiency Gains,100,85,15000000,14500000,3.3333333333333335
+Marketing,Software,50,40,80.0,Campaign Success,30,25,7000000,6800000,2.857142857142857
+Finance,Office Space,20,15,75.0,Cost Reductions,20,18,5000000,4500000,10.0
